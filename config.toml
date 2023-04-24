@@ -1,5 +1,5 @@
 title = "Arnaud Jeglot"
-baseURL = "https://ajeglot.github.io/persowebsite/"
+baseURL = "https://ajeglot.github.io/website/"
 languageCode = "en-us"
 theme = ["gohugo-theme-ananke"]
 # publishDir = "docs"
