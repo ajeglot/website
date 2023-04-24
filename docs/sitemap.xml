@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ajeglot.github.io/persowebsite/categories/</loc>
+    <loc>https://ajeglot.github.io/website/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ajeglot.github.io/persowebsite/contact/</loc>
+    <loc>https://ajeglot.github.io/website/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ajeglot.github.io/persowebsite/tags/</loc>
+    <loc>https://ajeglot.github.io/website/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ajeglot.github.io/persowebsite/</loc>
+    <loc>https://ajeglot.github.io/website/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to Arnaud&#39;s website on Arnaud Jeglot</title>
-    <link>https://ajeglot.github.io/persowebsite/</link>
+    <link>https://ajeglot.github.io/website/</link>
     <description>Recent content in Welcome to Arnaud&#39;s website on Arnaud Jeglot</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ajeglot.github.io/persowebsite/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ajeglot.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://ajeglot.github.io/persowebsite/contact/</link>
+      <link>https://ajeglot.github.io/website/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ajeglot.github.io/persowebsite/contact/</guid>
+      <guid>https://ajeglot.github.io/website/contact/</guid>
       <description>Leave me a message wiht the following form.
 Your NameEmail AddressAn email address is required.Message</description>
     </item>
