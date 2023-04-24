@@ -1,6 +1,6 @@
-﻿---
-title: "Master of Science in Environmental Engineering"
-description: "M.S. at DTU"
+---
+title: "Water technologies"
+description: ""
 featured_image: "/images/number2.jpg"
 date: 2023-04-10T15:45:56+02:00
 draft: true

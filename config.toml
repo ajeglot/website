@@ -1,8 +1,8 @@
 title = "Arnaud Jeglot"
 baseURL = "https://ajeglot.github.io/persowebsite/"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
-publishDir = "docs"
+theme = ["gohugo-theme-ananke"]
+# publishDir = "docs"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
