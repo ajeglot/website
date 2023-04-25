@@ -1,5 +1,5 @@
 title = "Arnaud Jeglot"
-baseURL = "https://ajeglot.github.io/website/"
+baseURL = ""
 languageCode = "en-us"
 theme = ["ananke"]
 # publishDir = "docs"
@@ -11,10 +11,10 @@ Paginate = 5 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+#[sitemap]
+ # changefreq = "monthly"
+  #priority = 0.5
+  #filename = "sitemap.xml"
 
 [params]
   favicon = ""
